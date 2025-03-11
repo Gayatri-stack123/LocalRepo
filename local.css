@@ -1,0 +1,15 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    color: brown;
+}
+p{
+    text-align: center;
+    color: blueviolet;
+    text-shadow: 0ch;
+    font-style: italic;
+}
+h4{
+    text-align: right;
+    color: blue;
+}
